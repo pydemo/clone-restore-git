@@ -5,6 +5,8 @@
     Author: SpeedCuber (@yogendrasinghx)
  
     Special Thanks to @tirthapriya12 ;)
+    
+    Cleaned for Python 3.x (pydemo@gmail.com)
 
 
 """
